@@ -1,4 +1,9 @@
-
+# VSCode settings
+.vscode/
+*.code-workspace
+.history/
+.settings/
 # Ignore all files in the data directory
 data/*
 !data/
+*.zip
