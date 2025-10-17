@@ -1,9 +1,14 @@
 # VSCode settings
-.vscode/
+.vscode
 *.code-workspace
 .history/
 .settings/
-# Ignore all files in the data directory
+# Data files
 data/*
 !data/
-*.zip
+data/original_pft_data/*
+!data/original_pft_data/
+data/regridded_pft_data/*
+!data/regridded_pft_data/
+data/era5_climate_data/*
+!data/era5_climate_data/
