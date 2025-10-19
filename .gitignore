@@ -12,3 +12,6 @@ data/regridded_pft_data/*
 !data/regridded_pft_data/
 data/era5_climate_data/*
 !data/era5_climate_data/
+
+figures/*
+!figures/
