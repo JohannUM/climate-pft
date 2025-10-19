@@ -1,2 +1,9 @@
 netCDF4
 cdsapi
+numpy
+xarray
+dask
+matplotlib
+cartopy
+pandas
+scikit-learn
